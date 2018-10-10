@@ -2,7 +2,7 @@
 # codefundo++ project
 
 # Introduction
-Floods is one of the most significant natural disasters which often leads to loss of life and property. Therefore, correct and reliable flood forecasting and flodd management is always an important task for flood hazard mitigation and to save materialistic and human resource of any nation. Saving lives of people by rescue opearations are important and we need more optimised and perfect technical solution to help the victims. Technology is evolving at exponential rate but with this pace there is a question to human civilisation, Are we using this technology to save the mankind or not. We are using technology to help human civilisation to save lives of human beings.
+Floods is one of the most significant natural disasters which often leads to loss of life and property. Therefore, correct and reliable flood forecasting and flood management is always an important task for flood hazard mitigation and to save materialistic and human resource of any nation. Saving lives of people by rescue opearations are important and we need more optimised and perfect technical solution to help the victims. Technology is evolving at exponential rate but with this pace there is a question to human civilisation, Are we using this technology to save the mankind or not. We are using technology to help human civilisation to save lives of human beings.
 
 
 
