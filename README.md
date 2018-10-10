@@ -9,7 +9,7 @@ Floods is one of the most significant natural disasters which often leads to los
 
 # Application(app)
 Our mobile application help the victims to find the safe and suitable place to dislocate. Given the current location of flood and population of nearby area and suitable place for them to safely landup and stay in camps upto the conditions becomes normal for survival.
-We make our application user friendly which can provide boats, food packets and advise to deal with current problems during flood and how to save himself/herself and also how the app user can save others life. We are also working on buffers which will help the app user to investigate the behaviour of water flow during flood in nearby areas of the river and at what rate whater is approaching their village or town.
+We make our application user friendly which can provide boats, food packets and advise to deal with current problems during flood and how to save himself/herself and also how the app user can save others life. We are also working on buffers which will help the app user to investigate the behaviour of water flow during flood in nearby areas of the river and at what rate whater is approaching their village or town. This app also shows how to allocate our resources in flood affected areas according to population and elevation data of areas.
 
 # Data usage and some predictions
 
